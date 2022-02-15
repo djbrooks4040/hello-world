@@ -11,3 +11,5 @@ Adding some lines to readme
 
 A new branch. README.branch. Try the merge and such.
 
+Branch 2 test.
+
